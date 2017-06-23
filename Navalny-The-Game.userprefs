@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\gdeSchetAVotOn.cs">
+    <Files>
+      <File FileName="Assets\Navalny.cs" Line="89" Column="4" />
+      <File FileName="Assets\collideEbat.cs" Line="21" Column="4" />
+      <File FileName="Assets\migalka.cs" Line="14" Column="60" />
+      <File FileName="Assets\schetEbana.cs" Line="23" Column="13" />
+      <File FileName="Assets\gdeSchetAVotOn.cs" Line="10" Column="75" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

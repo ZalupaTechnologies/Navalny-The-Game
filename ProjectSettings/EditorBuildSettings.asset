@@ -8,3 +8,6 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/runner.unity
     guid: df6e69b23e7f05848ad532f1ac4de2db
+  - enabled: 1
+    path: Assets/progral.unity
+    guid: 27ca51c0b9729cb4eaa4a7a907182519

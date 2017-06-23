@@ -17,7 +17,7 @@ public class collideEbat : MonoBehaviour {
 	void OnTriggerEnter(Collider e)
 	{
 			Debug.Log ("gameover ebat))");
-			e.transform.root.gameObject.GetComponent<Navalny> ().works = false;
+			GameObject.Find("Main Camera").GetComponent<Navalny> ().works = false;
 			e.gameObject.GetComponent<Rigidbody> ().useGravity = true;
 	}
 }
